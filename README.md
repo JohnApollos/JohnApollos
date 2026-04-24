@@ -1,4 +1,4 @@
-# John Apollos Onyango
+# John Apollos Olal Onyango
 ### Software Engineer & Data Scientist · Nairobi, Kenya
 
 Building production-grade digital products for real African markets.
