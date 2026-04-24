@@ -1,16 +1,45 @@
-## Hi there 👋
+# John Apollos Onyango
+### Software Engineer & Data Scientist · Nairobi, Kenya
 
-<!--
-**JohnApollos/JohnApollos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building production-grade digital products for real African markets.
+Founder @ [Apollos Digital Solutions](https://apollos-digital.vercel.app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- **Mobile Apps** — Flutter/Dart, cross-platform iOS & Android
+- **Web Platforms** — Next.js, React, TypeScript
+- **Backends** — Python FastAPI, PostgreSQL, Supabase
+- **Data Pipelines** — ETL, Power BI, spatial analysis
+- **SaaS Infrastructure** — Multi-tenancy, RLS, offline-first PWA
+
+## Featured Projects
+| Project | What It Is | Stack |
+|--------|-----------|-------|
+| [BaseOps](https://github.com/JohnApollos/baseops) | Open-source multi-tenant logistics PWA with offline sync | Next.js, Supabase, Dexie.js |
+| GaragePulse | SaaS management system for auto repair shops with AI OCR | FastAPI, PostgreSQL, RLS |
+| Hustler OS | Financial identity engine for the informal sector | Flutter, Python |
+| NyaPulse | Political intelligence platform for 2027 Nyakach race | React, Supabase |
+
+## Client Work
+- Law firm digital infrastructure — Munyiva & Pele Law LLP
+- Luxury travel platform — Lakwet Ap Rose World Travellers
+- Political campaign data strategy — Marsabit County 2027
+
+## Currently
+- Finishing BSc Data Science & Analytics at JKUAT (Year 3)
+- Open to freelance contracts, internships, and full-time roles
+- Available for industrial attachment: June–September 2026
+
+## Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+## Let's Talk
+- 🌐 [apollos-digital.vercel.app](https://apollos-digital.vercel.app)
+- 💼 [linkedin.com/in/johnapollos](https://linkedin.com/in/johnapollos)
+- 📧 johnapollosolal@gmail.com
