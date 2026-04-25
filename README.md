@@ -8,9 +8,9 @@ Founder @ [Apollos Digital Solutions](https://apollos-digital.vercel.app)
 
 ## GitHub Stats
 
-![Apollos's GitHub Stats](https://your_stats.vercel.app/api?username=JohnApollos&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true)
+![Apollos's GitHub Stats](https://your-stats.vercel.app/api?username=JohnApollos&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true)
 
-![Top Languages](https://your_stats.vercel.app/api/top-langs/?username=JohnApollos&layout=compact&count_private=true&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://your-stats.vercel.app/api/top-langs/?username=JohnApollos&layout=compact&count_private=true&theme=dark&hide_border=true&langs_count=8)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=JohnApollos&theme=dark&hide_border=true)
 
