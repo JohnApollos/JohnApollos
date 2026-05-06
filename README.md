@@ -37,7 +37,6 @@ Founder @ [Apollos Digital Solutions](https://apollos-digital.vercel.app)
 
 ## Client Work
 - Law firm digital infrastructure — Munyiva & Pele Law LLP
-- Luxury travel platform — Lakwet Ap Rose World Travellers
 - Political campaign data strategy — Marsabit County 2027 & Nyakach Constituency 2027
 
 ---
