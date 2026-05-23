@@ -42,7 +42,7 @@ Founder @ [Apollos Digital Solutions](https://apollos-digital.vercel.app)
 ---
 
 ## Currently
-- Finishing BSc Data Science & Analytics at JKUAT (Year 3)
+- Final year BSc Data Science & Analytics at JKUAT (Year 4)
 - Open to freelance contracts, internships, and full-time roles
 - Available for industrial attachment: June–September 2026
 
