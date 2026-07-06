@@ -22,7 +22,7 @@ I build end-to-end data science and software systems — from raw data to deploy
 
 | Project | What It Does | Stack |
 |--------|-------------|-------|
-| [Kenya Boda Boda E-Mobility Engine](https://github.com/JohnApollos) | Battery swap station gap analysis and PAYG default risk model for Nairobi's e-motorcycle sector | Python, GeoPandas, Folium, scikit-learn, Streamlit |
+| [Kenya Boda Boda E-Mobility Engine](https://github.com/JohnApollos/boda-emobility-viability-engine) | Battery swap station gap analysis and PAYG default risk model for Nairobi's e-motorcycle sector | Python, GeoPandas, Folium, scikit-learn, Streamlit |
 | [Kenyan Healthcare Landscape Analysis](https://github.com/JohnApollos/Kenyan-Healthcare-Landscape-Analysis-2017-) | Geospatial equity analysis of 47-county health facility distribution using KMHFL data | Python, GeoPandas, Folium, pandas |
 | [Credit Scoring & Loan Default Prediction](https://github.com/JohnApollos/credit-scoring-model) | Logistic regression model — 79% accuracy, 95% default detection precision | Python, scikit-learn, SHAP, pandas |
 | [Toxicity Classification Pipeline](https://github.com/JohnApollos/Toxic_Non-toxic_Prediction) | 1,204-feature classification with L1 regularisation, SMOTE, RepeatedStratifiedKFold | Python, scikit-learn, NumPy |
@@ -62,6 +62,7 @@ I build end-to-end data science and software systems — from raw data to deploy
 
 - Final-year BSc Data Science & Analytics, JKUAT Karen Campus (graduating 2027)
 - Building: Kenya E-Mobility Intelligence Engine (battery swap station optimisation for Nairobi)
+- Building FinSight AI — an agentic financial document analysis engine. July 2026.
 - Active applications: UNDP DAI Hub, METI Japan Internship Programme
 - Open to: data science roles, ML engineering, remote freelance, internships
 
