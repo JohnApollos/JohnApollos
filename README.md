@@ -88,8 +88,8 @@ I build end-to-end data science and software systems — from raw data to deploy
 
 ## GitHub Stats
 
-![Apollos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnApollos&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnApollos&layout=compact&count_private=true&theme=dark&hide_border=true&langs_count=8)
+![Apollos's GitHub Stats](https://your-stats.vercel.app/api?username=JohnApollos&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true)
+![Top Languages](https://your-stats.vercel.app/api/top-langs/?username=JohnApollos&layout=compact&count_private=true&theme=dark&hide_border=true&langs_count=8)
 
 ---
 
