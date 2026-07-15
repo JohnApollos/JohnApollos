@@ -22,6 +22,7 @@ I build end-to-end data science and software systems — from raw data to deploy
 
 | Project | What It Does | Stack |
 |--------|-------------|-------|
+| [FinLens AI](https://github.com/JohnApollos/FinLens-AI) | Localized financial document risk engine resolving structural differences via LLM extraction, double-entry checks, and RAG | Python, FastAPI, Gemini, LangChain, ChromaDB, MLflow, Streamlit, ReportLab |
 | [Kenya Boda Boda E-Mobility Viability Engine](https://github.com/JohnApollos/boda-emobility-viability-engine) | Battery swap coverage gap analysis, PAYG default risk model, and optimal station placement for Nairobi | Python, GeoPandas, scikit-learn, Streamlit, Folium |
 | [FinLens AI](https://github.com/JohnApollos/FinLens-AI) | Agentic financial document analysis engine with localized African market benchmarks — tested on Equity Group, Jubilee Holdings, EABL | Python, FastAPI, LangChain, ChromaDB, SHAP, MLflow |
 | [Kenyan Healthcare Landscape Analysis](https://github.com/JohnApollos/Kenyan-Healthcare-Landscape-Analysis-2017-) | Geospatial equity analysis of 47-county health facility distribution using KMHFL data | Python, GeoPandas, Folium, pandas |
