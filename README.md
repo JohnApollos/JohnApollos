@@ -23,6 +23,7 @@ I build end-to-end data science and software systems — from raw data to deploy
 | Project | What It Does | Stack |
 |--------|-------------|-------|
 | [Kenya Boda Boda E-Mobility Viability Engine](https://github.com/JohnApollos/boda-emobility-viability-engine) | Battery swap coverage gap analysis, PAYG default risk model, and optimal station placement for Nairobi | Python, GeoPandas, scikit-learn, Streamlit, Folium |
+| [FinLens AI](https://github.com/JohnApollos/FinLens-AI) | Agentic financial document analysis engine with localized African market benchmarks — tested on Equity Group, Jubilee Holdings, EABL | Python, FastAPI, LangChain, ChromaDB, SHAP, MLflow |
 | [Kenyan Healthcare Landscape Analysis](https://github.com/JohnApollos/Kenyan-Healthcare-Landscape-Analysis-2017-) | Geospatial equity analysis of 47-county health facility distribution using KMHFL data | Python, GeoPandas, Folium, pandas |
 | [Credit Scoring & Loan Default Prediction](https://github.com/JohnApollos/credit-scoring-model) | Logistic regression model — 79% accuracy, 95% default detection precision | Python, scikit-learn, SHAP, pandas |
 | [Toxicity Classification Pipeline](https://github.com/JohnApollos/Toxic_Non-toxic_Prediction) | 1,204-feature classification with L1 regularisation, SMOTE, RepeatedStratifiedKFold | Python, scikit-learn, NumPy |
@@ -61,7 +62,7 @@ I build end-to-end data science and software systems — from raw data to deploy
 ## Currently
 
 - Final-year BSc Data Science & Analytics, JKUAT Karen Campus (graduating 2027)
-- Currently: Building FinSight AI — an agentic financial document analysis engine. July 2026.
+- Currently: FinLens AI shipped — agentic financial risk engine tested on NSE-listed companies. July 2026.
 - Active applications: UNDP DAI Hub, METI Japan Internship Programme
 - Open to: data science roles, ML engineering, remote freelance, internships
 
